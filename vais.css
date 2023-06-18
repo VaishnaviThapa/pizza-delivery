@@ -1,0 +1,47 @@
+h1{
+   height: max-content;
+    background-color: burlywood;
+    color: black;
+}
+div{
+    background-color: white;
+    color: rgb(161, 20, 20);
+    text-align: center;
+    font-display: 23;
+
+}
+label{
+    font-size: xx-large;
+    background-color: chocolate;
+    color: black;
+    
+}
+
+h2
+{
+    color: darkgreen;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+div{
+    align-items: center;
+    
+    color: darkblue;
+}
+
+h3{
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+}
+h4{
+    color: maroon;
+    text-align: center;
+    font-size: xx-large;
+}
+
+p{
+    text-align: center;
+    
+}
